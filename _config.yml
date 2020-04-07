@@ -1,0 +1,5 @@
+baseurl: http://www.alisper.com
+permalink: /:year-:month-:day/:title
+pygments: true
+date_format: "ordinal"
+

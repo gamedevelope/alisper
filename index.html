@@ -1,8 +1,5 @@
-<html>
-<head>
-  <title>技术博客</title>
-</head>
-<body>
-  Hello World.
-</body>
-</html>
+---
+layout: default
+title: 哇，欢迎访问我的博客！
+---
+<ul>{% for post in site.posts %}<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>{% endfor %}</ul>
