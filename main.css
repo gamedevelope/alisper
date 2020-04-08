@@ -84,6 +84,7 @@ caption,th {
 h1,h2,h3,h4,h5,h6 {
 	font-size:100%;
 	font-weight:500;
+	font-family: '微软雅黑', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 q:before,q:after {
@@ -160,9 +161,9 @@ body {
     font-family: Arial, Vernada, Tahoma, SimSun, Heiti, sans-serif;
 }
 
-h1 { font-size:32px; font-weight:700}
-h2 { font-size:28px; font-weight:700}
-h3 { font-size:24px; font-weight:700}
+h1 { font-size:32px; font-weight:700; color: darkblue;}
+h2 { font-size:28px; font-weight:700; color: darkgoldenrod;}
+h3 { font-size:24px; font-weight:700; color: darkkhaki;}
 h4 { font-size:18px; font-weight:700}
 h5 { font-size:16px; font-weight:700}
 h6 { font-size:14px; font-weight:700}
